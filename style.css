@@ -1,0 +1,25 @@
+body {
+	background-color: #212120;
+}
+h1 {
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 48px;
+	text-decoration: underline;
+	color: #408c29;
+}
+h2 {
+	font-family: Alice, serif;
+	color: white;
+}
+h3 {
+	font-family: Alice, serif;
+	font-size: 18px;
+	color: #cf250b;
+}
+h4 {
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 36px;
+	text-decoration: underline;
+	color: #408c29;
+
+}
